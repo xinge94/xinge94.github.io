@@ -1,6 +1,12 @@
 
 /** 1. Basic
 *******************************************************************/
+@font-face {
+  font-family: 'TNR';
+  src: url('TNR.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
 
 html
 {
@@ -9,8 +15,8 @@ html
 
 body
 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 300;
+    font-family: 'TNR', serif;
+    font-weight: normal;
     font-style: normal;
 
     color: #fff;
@@ -33,8 +39,8 @@ h6,
 p,
 a
 {
-    font-family: 'Playfair Display', serif;
-    font-weight: bold;
+    font-family: 'TNR', serif;
+    font-weight: normal;
     color: #fff;
 }
 
