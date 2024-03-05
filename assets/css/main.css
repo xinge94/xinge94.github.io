@@ -500,7 +500,8 @@ a:hover
     height: auto;
     margin: 0 auto 10rem auto;
 
-    border: 6px solid #fff;
+    border: 6px solid #F5F3F2;
+    border-radius: 4px;
 }
 
 .portfolio .item:before
@@ -556,7 +557,8 @@ a:hover
     height: auto;
     margin: 0 auto 10rem auto;
 
-    border: 6px solid #fff;
+    border: 6px solid #F5F3F2;
+    border-radius: 4px;
 }
     .portfolio .item .item-cover
 {
@@ -577,7 +579,7 @@ a:hover
     height: 20%;
     padding: 12px;
     position: relative;
-    background-color: #ffffff;
+    background-color: #F5F3F2;
     color: #000000;
     font-size: 32px;
     font-family: 'HYDaSongJ', serif；
