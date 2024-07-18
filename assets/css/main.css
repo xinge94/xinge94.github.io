@@ -386,15 +386,15 @@ a:hover
 {
     position: absolute;
     top: 25%;
-    left: 0;
+    left: 4%;
     height: 300px;
-    width: 100%;
+    width: 40%;
     padding: 0 30px;
 
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-    text-align: center;
+    text-align: left;
 }
 
 .hero .front-content .container-mid h1
@@ -538,13 +538,13 @@ a:hover
     top: 25%;
     left: 0;
     height: 260px;
-    width: 100%;
+    width: 60%;
     padding: 0 30px;
 
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-    text-align: center;
+    text-align: left;
 }
     .portfolio .item
 {
